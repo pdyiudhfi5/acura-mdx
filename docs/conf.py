@@ -1,5 +1,5 @@
-project = 'acura mdx'
-author = 'acura-mdx'
+project = 'acura Navigation'
+author = 'acura-navigation'
 release = '1.0'
 
 # Extensions
@@ -25,4 +25,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://acura-mdx.readthedocs.io/en/latest/'
+html_baseurl = 'https://acura-navigation.readthedocs.io/en/latest/'
