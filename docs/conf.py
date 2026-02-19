@@ -1,5 +1,5 @@
-project = 'acura Navigation'
-author = 'acura-navigation'
+project = 'acura mdx'
+author = 'acura-mdx'
 release = '1.0'
 
 # Extensions
